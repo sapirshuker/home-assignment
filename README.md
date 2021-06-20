@@ -16,7 +16,7 @@ This endpoint should return a health check of your service:
 #### Docker Instructions
 1. Download the git repo to your computer
 2. Open command line to the folder 
-3. Enter the command: build -t assignment .
+3. Enter the command: docker build -t assignment .
 4.  Enter the command: docker run -dp 3000:3000 assignment
 
 #### Github
