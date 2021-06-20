@@ -1,7 +1,7 @@
 # Sapir Shuker Home Assignment
 
 ### API
-my service should include the following API:
+my service include the following API:
 
 ##### 1. GET /tweets?query=YOUR_STRING
 This endpoint should get a string and return the 10 latest tweets from according to YOUR_STRING
@@ -29,4 +29,4 @@ Your README file should include:
 
 ### Deployment
 Your service should be deployed to [Heroku](https://www.heroku.com/) with a Docker container.
-My Link to the API:
+My Link to the API: https://gentle-tundra-25620.herokuapp.com/
