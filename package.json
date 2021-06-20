@@ -1,0 +1,21 @@
+{
+  "name": "final-autodesk",
+  "version": "1.0.1",
+  "description": "home assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Sapir Shuker",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-percentage": "^1.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "twitter": "^1.7.1"
+  }
+}
