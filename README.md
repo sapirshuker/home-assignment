@@ -2,7 +2,7 @@
 
 ### API
 my service include the following API:
-
+the api for tweets is in secert git- does not public
 ##### 1. GET /tweets?query=YOUR_STRING
 This endpoint should get a string and return the 10 latest tweets from according to YOUR_STRING
 
@@ -17,7 +17,7 @@ This endpoint should return a health check of your service:
 1. Download the git repo to your computer
 2. Open command line to the folder 
 3. Enter the command: docker build -t assignment .
-4.  Enter the command: docker run -dp 3000:3000 assignment
+4. Enter the command: docker run -dp 3000:3000 assignment
 
 #### Github
 Make sure to host all your code on Github repository, including your Dockerfile and a README file. 
