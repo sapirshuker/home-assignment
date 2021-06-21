@@ -4,7 +4,7 @@ const { version } = require('./package.json');
 const os = require('os');
 const usage = require('cpu-percentage');
 const Twitter = require('twitter');
-const PORT = 3000;
+const PORT  = process.env.PORT || 3000;
 const app = express();
 app.use(express.json());
 
